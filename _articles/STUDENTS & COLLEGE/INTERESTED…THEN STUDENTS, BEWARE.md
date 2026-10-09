@@ -1,12 +1,12 @@
 ---
 layout: article
-title: "INTERESTEDΓÇªTHEN STUDENTS, BEWARE"
-description: "An article from the BestWork DATA knowledge library about INTERESTEDΓÇªTHEN STUDENTS, BEWARE."
+title: "INTERESTED…THEN STUDENTS, BEWARE"
+description: "An article from the BestWork DATA knowledge library about INTERESTED…THEN STUDENTS, BEWARE."
 category: "Students & College"
 category_slug: "students-and-college"
-permalink: "/library/students-and-college/interestedcathen-students-beware/"
-article_id: "d863c16f3857"
-source_file: "STUDENTS & COLLEGE/INTERESTEDΓÇªTHEN STUDENTS, BEWARE.pdf"
+permalink: "/library/students-and-college/interested-then-students-beware/"
+article_id: "007d37498ff8"
+source_file: "STUDENTS & COLLEGE/INTERESTED…THEN STUDENTS, BEWARE.pdf"
 source_format: "PDF"
 publisher: BestWork DATA
 published: true

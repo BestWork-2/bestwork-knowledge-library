@@ -1,12 +1,12 @@
 ---
 layout: article
-title: "NOT THAT MAJORΓÇªTHIS MAJOR - A STUDENT STORY"
-description: "An article from the BestWork DATA knowledge library about NOT THAT MAJORΓÇªTHIS MAJOR - A STUDENT STORY."
+title: "NOT THAT MAJOR…THIS MAJOR - A STUDENT STORY"
+description: "An article from the BestWork DATA knowledge library about NOT THAT MAJOR…THIS MAJOR - A STUDENT STORY."
 category: "Students & College"
 category_slug: "students-and-college"
-permalink: "/library/students-and-college/not-that-majorcathis-major-a-student-story/"
-article_id: "84e38b68fee9"
-source_file: "STUDENTS & COLLEGE/NOT THAT MAJORΓÇªTHIS MAJOR - A STUDENT STORY.pdf"
+permalink: "/library/students-and-college/not-that-major-this-major-a-student-story/"
+article_id: "ad7f0d42a9d9"
+source_file: "STUDENTS & COLLEGE/NOT THAT MAJOR…THIS MAJOR - A STUDENT STORY.pdf"
 source_format: "PDF"
 publisher: BestWork DATA
 published: true

@@ -62,8 +62,14 @@ def yaml_string(value: str) -> str:
     return json.dumps(value, ensure_ascii=False)
 
 
+def repair_legacy_text(value: str) -> str:
+    # Two filenames arrived with an ellipsis decoded through a legacy Mac/PC
+    # code page. Normalize that known sequence without rewriting article prose.
+    return value.replace("ΓÇª", "…")
+
+
 def parse_document(path: Path) -> tuple[str, str, str, str, str]:
-    text = path.read_text(encoding="utf-8").replace("\r\n", "\n")
+    text = repair_legacy_text(path.read_text(encoding="utf-8")).replace("\r\n", "\n")
     lines = text.splitlines()
     title = path.stem
     if lines and lines[0].startswith("# "):
@@ -132,10 +138,11 @@ def main() -> int:
         title, description, source_file, source_format, body = parse_document(source)
         # Use the repository filename for URL identity so same-title source
         # variants (for example PDF and Pages) remain distinct.
-        article_slug = slugify(relative.stem)
+        article_slug = slugify(repair_legacy_text(relative.stem))
         permalink = f"/library/{category_slug}/{article_slug}/"
         article_id = hashlib.sha256(source_file.encode("utf-8")).hexdigest()[:12]
-        destination = articles_root.joinpath(*category_parts, relative.name)
+        destination_name = repair_legacy_text(relative.stem) + ".md"
+        destination = articles_root.joinpath(*category_parts, destination_name)
         destination.parent.mkdir(parents=True, exist_ok=True)
 
         front_matter = [
