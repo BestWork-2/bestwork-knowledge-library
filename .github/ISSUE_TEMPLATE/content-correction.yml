@@ -1,0 +1,32 @@
+name: Content correction
+description: Report a conversion, OCR, attribution, or factual issue in a library document.
+title: "[Content correction] "
+labels: [content]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL or article ID
+      description: Provide the public URL or the Library ID displayed on the page.
+    validations:
+      required: true
+  - type: dropdown
+    id: correction_type
+    attributes:
+      label: Correction type
+      options:
+        - OCR or conversion error
+        - Attribution or date
+        - Broken link
+        - Factual or legal update
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain the problem and provide the corrected text or supporting source where possible.
+    validations:
+      required: true
+

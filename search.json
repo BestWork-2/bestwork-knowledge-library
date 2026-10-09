@@ -1,0 +1,17 @@
+---
+layout: null
+permalink: /search.json
+sitemap: false
+---
+[
+{% assign sorted_articles = site.articles | sort: "title" %}
+{% for article in sorted_articles %}
+  {
+    "title": {{ article.title | jsonify }},
+    "description": {{ article.description | jsonify }},
+    "category": {{ article.category | jsonify }},
+    "url": {{ article.url | relative_url | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
+

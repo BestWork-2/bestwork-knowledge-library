@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{% assign category_articles = site.articles | where: "category", page.category | sort: "title" %}
+<section class="category-hero">
+  <div class="shell narrow">
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <a href="{{ '/' | relative_url }}">Home</a><span aria-hidden="true">/</span>
+      <a href="{{ '/library/' | relative_url }}">Library</a>
+    </nav>
+    <p class="eyebrow">Topic collection</p>
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.description }}</p>
+    <p class="count">{{ category_articles.size }} documents</p>
+  </div>
+</section>
+<section class="shell listing-section">
+  <div class="article-list">
+    {% for article in category_articles %}
+      <a class="article-row" href="{{ article.url | relative_url }}">
+        <span>
+          <strong>{{ article.title }}</strong>
+          <small>{{ article.description }}</small>
+        </span>
+        <span class="arrow" aria-hidden="true">&rarr;</span>
+      </a>
+    {% endfor %}
+  </div>
+</section>
+

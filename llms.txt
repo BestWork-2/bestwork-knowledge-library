@@ -1,0 +1,19 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+---
+# BestWork Knowledge Library
+
+> Research, essays, and practical guidance about behavioral data, cognitive abilities, talent, teams, leadership, and work.
+
+## Main pages
+
+- [Library]({{ '/library/' | absolute_url }}): Search and browse the complete document collection.
+- [About]({{ '/about/' | absolute_url }}): Purpose, provenance, editorial status, and rights.
+
+## Topic collections
+
+{% for category in site.data.categories %}- [{{ category.name }}]({{ '/library/' | append: category.slug | append: '/' | absolute_url }}): {{ category.description }}
+{% endfor %}
+

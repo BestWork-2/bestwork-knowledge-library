@@ -1,0 +1,116 @@
+- name: "AI"
+  slug: "ai"
+  description: "Articles examining behavioral data, people analytics, and artificial intelligence."
+  count: 1
+- name: "Behavioral Data"
+  slug: "behavioral-data"
+  description: "Foundational perspectives on behavioral data and its practical applications."
+  count: 3
+- name: "BestWork"
+  slug: "bestwork"
+  description: "Core explanations of BestWork DATA, its principles, and its applications."
+  count: 24
+- name: "Blog"
+  slug: "blog"
+  description: "The Changing the Game article series."
+  count: 7
+- name: "Career"
+  slug: "career"
+  description: "Career development, job fit, and training perspectives."
+  count: 4
+- name: "Case Studies"
+  slug: "case-studies"
+  description: "Examples of behavioral and cognitive data applied to organizational challenges."
+  count: 8
+- name: "Cities"
+  slug: "cities"
+  description: "Workforce data, cities, and resilient labor markets."
+  count: 2
+- name: "Cognitive"
+  slug: "cognitive"
+  description: "Cognitive abilities, learning, and the different ways people solve problems."
+  count: 3
+- name: "Consulting"
+  slug: "consulting"
+  description: "Using evidence and behavioral data in advisory work."
+  count: 2
+- name: "Customer Service"
+  slug: "customer-service"
+  description: "Customer-centric performance and the people side of service."
+  count: 2
+- name: "Cybersecurity"
+  slug: "cybersecurity"
+  description: "The human and behavioral dimensions of cybersecurity."
+  count: 2
+- name: "Entrepreneurs"
+  slug: "entrepreneurs"
+  description: "Entrepreneurial roles, strengths, and business performance."
+  count: 5
+- name: "Industries / Franchising"
+  slug: "industries/franchising"
+  description: "Behavioral-data applications in franchising."
+  count: 1
+- name: "Industries / Recruiting"
+  slug: "industries/recruiting"
+  description: "Behavioral-data applications in recruiting."
+  count: 1
+- name: "Industries / Staffing"
+  slug: "industries/staffing"
+  description: "Behavioral-data applications in staffing."
+  count: 2
+- name: "Job Seekers"
+  slug: "job-seekers"
+  description: "Job agility, career direction, and understanding individual strengths."
+  count: 3
+- name: "Leadership"
+  slug: "leadership"
+  description: "Leadership outcomes, strengths, and development."
+  count: 1
+- name: "Legal"
+  slug: "legal"
+  description: "Legal and compliance considerations for assessments and selection."
+  count: 4
+- name: "Miscellaneous"
+  slug: "miscellaneous"
+  description: "Cross-disciplinary essays on performance, strategy, and data."
+  count: 11
+- name: "Psychology"
+  slug: "psychology"
+  description: "Psychometrics, personality measurement, assessment quality, and interpretation."
+  count: 22
+- name: "Sales"
+  slug: "sales"
+  description: "Sales roles, performance, training, and behavioral strengths."
+  count: 8
+- name: "Screening"
+  slug: "screening"
+  description: "Background screening and evidence-based selection."
+  count: 2
+- name: "Students & College"
+  slug: "students-and-college"
+  description: "College decisions, student strengths, employability, and career direction."
+  count: 15
+- name: "Talent Acquisition"
+  slug: "talent-acquisition"
+  description: "Selection, hiring, candidate fit, and evidence-based recruiting."
+  count: 20
+- name: "Talent Management"
+  slug: "talent-management"
+  description: "Performance, innovation, development, and workforce decisions."
+  count: 8
+- name: "Team Engineering"
+  slug: "team-engineering"
+  description: "Team composition, collaboration, and data-informed team performance."
+  count: 8
+- name: "Training"
+  slug: "training"
+  description: "Training effectiveness aligned with behavioral and cognitive strengths."
+  count: 3
+- name: "Turnover"
+  slug: "turnover"
+  description: "Job fit, job design, training, and employee retention."
+  count: 3
+- name: "Veterans"
+  slug: "veterans"
+  description: "Recognizing and translating veterans' strengths for civilian work."
+  count: 1

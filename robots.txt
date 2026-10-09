@@ -1,0 +1,20 @@
+---
+layout: null
+permalink: /robots.txt
+sitemap: false
+---
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Search access is enabled above. Model-training access is intentionally separate.
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
+

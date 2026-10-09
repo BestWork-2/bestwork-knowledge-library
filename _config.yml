@@ -1,0 +1,49 @@
+title: BestWork Knowledge Library
+description: Research, essays, and practical guidance about behavioral data, cognitive abilities, talent, teams, leadership, and work.
+lang: en-US
+url: ""
+baseurl: ""
+repository: ""
+timezone: America/New_York
+
+publisher:
+  name: BestWork DATA
+
+collections:
+  articles:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
+      sitemap: true
+  - scope:
+      path: "categories"
+    values:
+      layout: category
+      sitemap: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CONTRIBUTING.md
+  - DEPLOYMENT.md
+  - LICENSE.md
+  - tools
+  - vendor
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+permalink: pretty
+
