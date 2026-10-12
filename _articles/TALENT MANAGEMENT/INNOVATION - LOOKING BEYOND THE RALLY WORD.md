@@ -8,7 +8,7 @@ permalink: "/library/talent-management/innovation-looking-beyond-the-rally-word/
 article_id: "1581cd06138d"
 source_file: "TALENT MANAGEMENT/INNOVATION - LOOKING BEYOND THE RALLY WORD.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

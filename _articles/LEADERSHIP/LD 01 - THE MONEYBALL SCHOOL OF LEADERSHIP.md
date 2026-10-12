@@ -8,7 +8,7 @@ permalink: "/library/leadership/ld-01-the-moneyball-school-of-leadership/"
 article_id: "2717fb64148f"
 source_file: "LEADERSHIP/LD 01 - THE MONEYBALL SCHOOL OF LEADERSHIP.pdf"
 source_format: "PDF (OCR used because the PDF contains scanned page images)"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

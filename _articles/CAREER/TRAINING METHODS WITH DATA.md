@@ -8,7 +8,7 @@ permalink: "/library/career/training-methods-with-data/"
 article_id: "32d5356505c8"
 source_file: "CAREER/TRAINING METHODS WITH DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

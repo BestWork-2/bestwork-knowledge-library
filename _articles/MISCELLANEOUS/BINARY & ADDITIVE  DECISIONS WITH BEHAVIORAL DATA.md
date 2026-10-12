@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/binary-and-additive-decisions-with-behavioral
 article_id: "212b9d49b292"
 source_file: "MISCELLANEOUS/BINARY & ADDITIVE  DECISIONS WITH BEHAVIORAL DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

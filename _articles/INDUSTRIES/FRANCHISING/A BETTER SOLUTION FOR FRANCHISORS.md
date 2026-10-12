@@ -8,7 +8,7 @@ permalink: "/library/industries/franchising/a-better-solution-for-franchisors/"
 article_id: "2ced7838bc4c"
 source_file: "INDUSTRIES/FRANCHISING/A BETTER SOLUTION FOR FRANCHISORS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

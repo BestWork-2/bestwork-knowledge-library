@@ -8,7 +8,7 @@ permalink: "/library/bestwork/lead-with-data/"
 article_id: "0a670e42d32b"
 source_file: "BESTWORK/LEAD WITH DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

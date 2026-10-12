@@ -8,7 +8,7 @@ permalink: "/library/blog/changing-the-game-episode-5/"
 article_id: "ff21ef55c62e"
 source_file: "BLOG/CHANGING THE GAME - EPISODE 5.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/thoughts-on-college-admission-elements
 article_id: "2b7cf569d32e"
 source_file: "STUDENTS & COLLEGE/THOUGHTS ON COLLEGE ADMISSION ELEMENTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/case-studies/cs-losing-market-share-mystery/"
 article_id: "b47823df425a"
 source_file: "CASE STUDIES/CS-LOSING MARKET SHARE MYSTERY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

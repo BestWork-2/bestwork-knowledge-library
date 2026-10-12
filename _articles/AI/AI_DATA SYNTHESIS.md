@@ -8,7 +8,7 @@ permalink: "/library/ai/ai-data-synthesis/"
 article_id: "983c0d18f3f1"
 source_file: "AI/AI_DATA SYNTHESIS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

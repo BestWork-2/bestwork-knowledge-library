@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/sr-exec-high-performance-selection/"
 article_id: "21b4ac9d8e6d"
 source_file: "TALENT ACQUISITION/SR EXEC HIGH PERFORMANCE SELECTION.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

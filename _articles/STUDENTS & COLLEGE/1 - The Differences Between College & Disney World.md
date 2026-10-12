@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/1-the-differences-between-college-and-
 article_id: "536680a8ac59"
 source_file: "STUDENTS & COLLEGE/#1 - The Differences Between College & Disney World.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

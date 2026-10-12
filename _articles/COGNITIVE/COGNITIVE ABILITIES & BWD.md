@@ -8,7 +8,7 @@ permalink: "/library/cognitive/cognitive-abilities-and-bwd/"
 article_id: "e3aface5b288"
 source_file: "COGNITIVE/COGNITIVE ABILITIES & BWD.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

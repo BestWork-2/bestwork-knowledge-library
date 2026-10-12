@@ -8,7 +8,7 @@ permalink: "/library/cybersecurity/data-and-cyber-security/"
 article_id: "2c7a3f73fa84"
 source_file: "CYBERSECURITY/DATA & CYBER SECURITY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

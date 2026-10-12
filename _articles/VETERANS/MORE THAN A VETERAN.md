@@ -8,7 +8,7 @@ permalink: "/library/veterans/more-than-a-veteran/"
 article_id: "4ab0c7e5396f"
 source_file: "VETERANS/MORE THAN A VETERAN.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

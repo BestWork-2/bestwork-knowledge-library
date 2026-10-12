@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/colleges-fail-teaching-how-to-think/"
 article_id: "7bd629edcf70"
 source_file: "STUDENTS & COLLEGE/COLLEGES FAIL TEACHING HOW TO THINK.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/types-of-hiring-information/"
 article_id: "0946b200fb2c"
 source_file: "TALENT ACQUISITION/Types of Hiring Information.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

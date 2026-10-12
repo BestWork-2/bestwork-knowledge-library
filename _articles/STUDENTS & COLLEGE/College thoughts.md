@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/college-thoughts/"
 article_id: "2ef766c3bf39"
 source_file: "STUDENTS & COLLEGE/College thoughts.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

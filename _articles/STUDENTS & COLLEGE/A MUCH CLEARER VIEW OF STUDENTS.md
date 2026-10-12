@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/a-much-clearer-view-of-students/"
 article_id: "b669b12444a3"
 source_file: "STUDENTS & COLLEGE/A MUCH CLEARER VIEW OF STUDENTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

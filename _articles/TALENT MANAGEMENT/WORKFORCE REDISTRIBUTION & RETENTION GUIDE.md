@@ -8,7 +8,7 @@ permalink: "/library/talent-management/workforce-redistribution-and-retention-gu
 article_id: "b2cf7001476c"
 source_file: "TALENT MANAGEMENT/WORKFORCE REDISTRIBUTION & RETENTION GUIDE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

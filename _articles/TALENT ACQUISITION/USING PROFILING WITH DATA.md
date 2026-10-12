@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/using-profiling-with-data/"
 article_id: "a57307d33772"
 source_file: "TALENT ACQUISITION/USING PROFILING WITH DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

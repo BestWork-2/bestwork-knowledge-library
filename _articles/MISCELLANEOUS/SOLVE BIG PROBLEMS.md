@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/solve-big-problems/"
 article_id: "e51685d4e500"
 source_file: "MISCELLANEOUS/SOLVE BIG PROBLEMS.pages"
 source_format: "Apple Pages"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 Solving BIG Problems

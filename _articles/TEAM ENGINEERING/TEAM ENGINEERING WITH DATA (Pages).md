@@ -8,7 +8,7 @@ permalink: "/library/team-engineering/team-engineering-with-data-pages/"
 article_id: "ec2a140776f6"
 source_file: "TEAM ENGINEERING/TEAM ENGINEERING WITH DATA.pages"
 source_format: "Apple Pages"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 Team Engineering with DATA

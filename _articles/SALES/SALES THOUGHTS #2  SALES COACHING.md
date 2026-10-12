@@ -8,7 +8,7 @@ permalink: "/library/sales/sales-thoughts-2-sales-coaching/"
 article_id: "32e559f45cd1"
 source_file: "SALES/SALES THOUGHTS #2  SALES COACHING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

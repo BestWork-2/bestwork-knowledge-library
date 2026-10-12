@@ -8,7 +8,7 @@ permalink: "/library/bestwork/an-extraordinary-revolution/"
 article_id: "eaed6d531b4e"
 source_file: "BESTWORK/AN EXTRAORDINARY REVOLUTION.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

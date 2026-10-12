@@ -8,7 +8,7 @@ permalink: "/library/bestwork/beyond-profiling/"
 article_id: "d915f710a4df"
 source_file: "BESTWORK/BEYOND PROFILING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

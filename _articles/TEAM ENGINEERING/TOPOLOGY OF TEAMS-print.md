@@ -8,7 +8,7 @@ permalink: "/library/team-engineering/topology-of-teams-print/"
 article_id: "1494400b8f6e"
 source_file: "TEAM ENGINEERING/TOPOLOGY OF TEAMS-print.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

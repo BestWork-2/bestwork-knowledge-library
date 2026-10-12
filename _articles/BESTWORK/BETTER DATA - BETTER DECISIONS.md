@@ -8,7 +8,7 @@ permalink: "/library/bestwork/better-data-better-decisions/"
 article_id: "de2ab635a22e"
 source_file: "BESTWORK/BETTER DATA - BETTER DECISIONS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

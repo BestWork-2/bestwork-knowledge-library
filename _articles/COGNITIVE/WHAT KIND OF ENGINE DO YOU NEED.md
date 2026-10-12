@@ -8,7 +8,7 @@ permalink: "/library/cognitive/what-kind-of-engine-do-you-need/"
 article_id: "3e758a244bac"
 source_file: "COGNITIVE/WHAT KIND OF ENGINE DO YOU NEED.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

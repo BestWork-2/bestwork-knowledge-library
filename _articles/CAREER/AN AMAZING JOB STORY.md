@@ -8,7 +8,7 @@ permalink: "/library/career/an-amazing-job-story/"
 article_id: "26377ce5b5f5"
 source_file: "CAREER/AN AMAZING JOB STORY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/industries/staffing/disrupting-the-staffing-industry/"
 article_id: "88221118e0ab"
 source_file: "INDUSTRIES/STAFFING/DISRUPTING THE STAFFING INDUSTRY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

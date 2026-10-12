@@ -25,15 +25,13 @@ img { max-width: 100%; }
 .skip-link { position: fixed; left: 16px; top: -80px; z-index: 100; background: var(--lime); padding: 10px 16px; font-weight: 700; }
 .skip-link:focus { top: 16px; }
 
-.site-header { background: var(--green-dark); color: white; border-bottom: 1px solid rgba(255,255,255,.12); }
-.header-inner { min-height: 78px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
-.brand { display: inline-flex; align-items: center; gap: 12px; color: white; text-decoration: none; }
-.brand-mark { display: grid; place-items: center; width: 38px; height: 38px; border-radius: 50%; color: var(--green-dark); background: var(--lime); font-weight: 800; font-size: 13px; letter-spacing: -.03em; }
-.brand strong, .brand small { display: block; line-height: 1.1; }
-.brand strong { font-family: "Libre Franklin", sans-serif; font-size: 16px; }
-.brand small { margin-top: 4px; color: #b7cac4; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; }
+.site-header { background: var(--surface); color: var(--ink); border-bottom: 1px solid var(--line); }
+.header-inner { min-height: 104px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.brand { display: inline-flex; flex-direction: column; align-items: flex-start; color: var(--ink); text-decoration: none; }
+.brand-logo { display: block; width: 200px; height: 45px; object-fit: contain; }
+.brand-library { margin: 5px 0 0 45px; color: var(--green); font-size: 11px; font-weight: 700; line-height: 1; letter-spacing: .13em; text-transform: uppercase; }
 .site-header nav { display: flex; gap: 28px; }
-.site-header nav a { color: #e7efec; text-decoration: none; font-size: 14px; font-weight: 600; }
+.site-header nav a { color: var(--green-dark); text-decoration: none; font-size: 14px; font-weight: 700; }
 
 .hero { overflow: hidden; color: white; background: var(--green-dark); padding: 96px 0 104px; position: relative; }
 .hero::after { content: ""; position: absolute; width: 430px; height: 430px; right: -100px; top: -190px; border: 90px solid rgba(204,229,93,.12); border-radius: 50%; }
@@ -115,7 +113,9 @@ h1, h2, h3 { font-family: "Libre Franklin", sans-serif; line-height: 1.08; lette
 }
 @media (max-width: 650px) {
   :root { --shell: min(100% - 28px, 1180px); }
-  .header-inner { min-height: 68px; }
+  .header-inner { min-height: 88px; }
+  .brand-logo { width: 160px; height: 36px; }
+  .brand-library { margin-left: 36px; font-size: 9px; }
   .site-header nav { gap: 16px; }
   .hero { padding: 66px 0 72px; }
   .hero-grid { grid-template-columns: 1fr; gap: 42px; }

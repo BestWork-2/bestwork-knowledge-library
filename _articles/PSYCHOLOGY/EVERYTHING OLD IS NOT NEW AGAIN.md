@@ -8,7 +8,7 @@ permalink: "/library/psychology/everything-old-is-not-new-again/"
 article_id: "d5ed6bb86a2e"
 source_file: "PSYCHOLOGY/EVERYTHING OLD IS NOT NEW AGAIN.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

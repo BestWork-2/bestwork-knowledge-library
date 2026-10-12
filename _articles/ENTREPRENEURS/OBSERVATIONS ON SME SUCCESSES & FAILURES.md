@@ -8,7 +8,7 @@ permalink: "/library/entrepreneurs/observations-on-sme-successes-and-failures/"
 article_id: "c3aae985ddc6"
 source_file: "ENTREPRENEURS/OBSERVATIONS ON SME SUCCESSES & FAILURES.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

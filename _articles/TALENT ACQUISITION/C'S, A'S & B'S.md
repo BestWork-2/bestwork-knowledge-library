@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/c-s-a-s-and-b-s/"
 article_id: "658d4f357aa2"
 source_file: "TALENT ACQUISITION/C'S, A'S & B'S.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

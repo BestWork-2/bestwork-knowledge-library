@@ -8,7 +8,7 @@ permalink: "/library/entrepreneurs/my-first-entrepreneuring/"
 article_id: "4649c6094a8b"
 source_file: "ENTREPRENEURS/My First Entrepreneuring.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

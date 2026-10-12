@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/simple-hiring-facts/"
 article_id: "cade1ad9fbc9"
 source_file: "TALENT ACQUISITION/SIMPLE HIRING FACTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

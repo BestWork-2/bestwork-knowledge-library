@@ -8,7 +8,7 @@ permalink: "/library/case-studies/sc-sls-mri-model-vp/"
 article_id: "cd366fd76105"
 source_file: "CASE STUDIES/SC SLS MRI MODEL-VP.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

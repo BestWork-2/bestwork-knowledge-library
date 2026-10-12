@@ -8,7 +8,7 @@ permalink: "/library/sales/indtw-sales-training/"
 article_id: "4a9f40dc3191"
 source_file: "SALES/INDTW-SALES TRAINING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

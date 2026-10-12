@@ -8,7 +8,7 @@ permalink: "/library/training/enhancing-training-effectiveness-w-data/"
 article_id: "03ae8cf85121"
 source_file: "TRAINING/ENHANCING TRAINING EFFECTIVENESS w_DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -10,7 +10,7 @@ permalink: /about/
 <section class="shell narrow prose standalone">
 ## Purpose
 
-This library preserves and organizes BestWork DATA articles, case studies, and practical perspectives so they can be read, searched, cited, and maintained on the open web.
+This library preserves and organizes BestWork articles, case studies, and practical perspectives so they can be read, searched, cited, and maintained on the open web.
 
 ## Provenance
 
@@ -24,6 +24,6 @@ One scanned document required optical character recognition and may contain mino
 
 ## Rights
 
-Unless a document states otherwise, its contents are copyrighted by BestWork DATA and/or the identified author. Public access does not grant permission to republish or commercially reuse the material.
+Unless a document states otherwise, its contents are copyrighted by BestWork and/or the identified author. Public access does not grant permission to republish or commercially reuse the material.
 </section>
 

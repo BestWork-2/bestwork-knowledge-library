@@ -8,7 +8,7 @@ permalink: "/library/bestwork/virtual-interview-concept/"
 article_id: "35047819f123"
 source_file: "BESTWORK/Virtual Interview Concept.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

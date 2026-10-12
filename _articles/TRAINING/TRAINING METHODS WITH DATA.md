@@ -8,7 +8,7 @@ permalink: "/library/training/training-methods-with-data/"
 article_id: "65f562e075ef"
 source_file: "TRAINING/TRAINING METHODS WITH DATA.pages"
 source_format: "Apple Pages"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 Combine training initiatives and methodologies with cognitive and behavioral DATA to optimize training effectiveness

@@ -8,7 +8,7 @@ permalink: "/library/cognitive/so-many-kinds-of-smart/"
 article_id: "eb05aa62f952"
 source_file: "COGNITIVE/SO MANY KINDS OF SMART.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

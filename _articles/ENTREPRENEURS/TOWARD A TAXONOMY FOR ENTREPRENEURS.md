@@ -8,7 +8,7 @@ permalink: "/library/entrepreneurs/toward-a-taxonomy-for-entrepreneurs/"
 article_id: "778864c2da14"
 source_file: "ENTREPRENEURS/TOWARD A TAXONOMY FOR ENTREPRENEURS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

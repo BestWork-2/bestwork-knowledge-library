@@ -8,7 +8,7 @@ permalink: "/library/career/what-if-we-really-helped-job-seekers/"
 article_id: "03e67f9a762e"
 source_file: "CAREER/WHAT IF WE REALLY HELPED JOB SEEKERS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

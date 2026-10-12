@@ -8,7 +8,7 @@ permalink: "/library/case-studies/collaboration-challenges/"
 article_id: "d47e3610b4f6"
 source_file: "CASE STUDIES/COLLABORATION CHALLENGES.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/bestwork/data-as-a-diagnostic/"
 article_id: "6467eca1b4cf"
 source_file: "BESTWORK/DATA AS A DIAGNOSTIC.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/thoughts-on-unconscious-bias-in-hiring/"
 article_id: "78418154dc10"
 source_file: "TALENT ACQUISITION/THOUGHTS ON UNCONSCIOUS BIAS IN HIRING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

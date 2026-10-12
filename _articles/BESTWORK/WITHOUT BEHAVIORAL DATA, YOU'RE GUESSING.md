@@ -8,7 +8,7 @@ permalink: "/library/bestwork/without-behavioral-data-you-re-guessing/"
 article_id: "4b2d6ab9973e"
 source_file: "BESTWORK/WITHOUT BEHAVIORAL DATA, YOU'RE GUESSING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

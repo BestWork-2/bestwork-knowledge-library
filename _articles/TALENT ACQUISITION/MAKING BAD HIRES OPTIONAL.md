@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/making-bad-hires-optional/"
 article_id: "5111f0ff2375"
 source_file: "TALENT ACQUISITION/MAKING BAD HIRES OPTIONAL.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

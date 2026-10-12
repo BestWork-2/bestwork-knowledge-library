@@ -8,7 +8,7 @@ permalink: "/library/bestwork/new-answers-to-old-questions/"
 article_id: "bae877063d6b"
 source_file: "BESTWORK/NEW ANSWERS TO OLD QUESTIONS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/psychology/strengths-you-cannot-lose/"
 article_id: "6cb402412212"
 source_file: "PSYCHOLOGY/STRENGTHS YOU CANNOT LOSE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

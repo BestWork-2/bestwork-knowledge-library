@@ -8,7 +8,7 @@ permalink: "/library/turnover/controlling-turnover-the-training-paradox/"
 article_id: "1bf24cdee4a5"
 source_file: "TURNOVER/CONTROLLING TURNOVER - THE TRAINING PARADOX.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

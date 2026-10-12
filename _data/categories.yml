@@ -8,7 +8,7 @@
   count: 3
 - name: "BestWork"
   slug: "bestwork"
-  description: "Core explanations of BestWork DATA, its principles, and its applications."
+  description: "Core explanations of BestWork, its principles, and its applications."
   count: 24
 - name: "Blog"
   slug: "blog"

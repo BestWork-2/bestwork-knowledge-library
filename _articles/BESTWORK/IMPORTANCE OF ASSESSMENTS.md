@@ -8,7 +8,7 @@ permalink: "/library/bestwork/importance-of-assessments/"
 article_id: "eb3ca62b7031"
 source_file: "BESTWORK/IMPORTANCE OF ASSESSMENTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

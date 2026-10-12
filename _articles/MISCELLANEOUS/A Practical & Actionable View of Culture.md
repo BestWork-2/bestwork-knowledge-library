@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/a-practical-and-actionable-view-of-culture/"
 article_id: "0b310819baae"
 source_file: "MISCELLANEOUS/A Practical & Actionable View of Culture.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

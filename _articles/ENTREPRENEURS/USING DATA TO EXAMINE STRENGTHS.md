@@ -8,7 +8,7 @@ permalink: "/library/entrepreneurs/using-data-to-examine-strengths/"
 article_id: "41fae08457be"
 source_file: "ENTREPRENEURS/USING DATA TO EXAMINE STRENGTHS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

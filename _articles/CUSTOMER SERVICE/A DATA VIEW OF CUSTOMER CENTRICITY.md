@@ -8,7 +8,7 @@ permalink: "/library/customer-service/a-data-view-of-customer-centricity/"
 article_id: "285dbe5d43e1"
 source_file: "CUSTOMER SERVICE/A DATA VIEW OF CUSTOMER CENTRICITY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

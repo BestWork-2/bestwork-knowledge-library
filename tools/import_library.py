@@ -16,7 +16,7 @@ from pathlib import Path
 CATEGORY_DESCRIPTIONS = {
     "AI": "Articles examining behavioral data, people analytics, and artificial intelligence.",
     "Behavioral Data": "Foundational perspectives on behavioral data and its practical applications.",
-    "BestWork": "Core explanations of BestWork DATA, its principles, and its applications.",
+    "BestWork": "Core explanations of BestWork, its principles, and its applications.",
     "Blog": "The Changing the Game article series.",
     "Career": "Career development, job fit, and training perspectives.",
     "Case Studies": "Examples of behavioral and cognitive data applied to organizational challenges.",
@@ -101,7 +101,7 @@ def parse_document(path: Path) -> tuple[str, str, str, str, str]:
             description = candidate
             break
     if not description:
-        description = f"An article from the BestWork DATA knowledge library about {title}."
+        description = f"An article from the BestWork knowledge library about {title}."
     if len(description) > 220:
         description = description[:217].rsplit(" ", 1)[0] + "..."
     return title, description, source_file, source_format, body
@@ -156,7 +156,7 @@ def main() -> int:
             f"article_id: {yaml_string(article_id)}",
             f"source_file: {yaml_string(source_file)}",
             f"source_format: {yaml_string(source_format)}",
-            "publisher: BestWork DATA",
+            "publisher: BestWork",
             "published: true",
             "---",
             "",
@@ -168,7 +168,7 @@ def main() -> int:
             "name": category,
             "slug": category_slug,
             "description": CATEGORY_DESCRIPTIONS.get(
-                category, f"BestWork DATA articles about {category.lower()}."
+                category, f"BestWork articles about {category.lower()}."
             ),
         }
 

@@ -8,7 +8,7 @@ permalink: "/library/psychology/what-bwd-measures/"
 article_id: "8a19486a6c1e"
 source_file: "PSYCHOLOGY/WHAT BWD MEASURES .textClipping"
 source_format: "macOS text clipping"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 WHAT BWD MEASURES

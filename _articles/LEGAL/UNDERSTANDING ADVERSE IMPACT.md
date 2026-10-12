@@ -8,7 +8,7 @@ permalink: "/library/legal/understanding-adverse-impact/"
 article_id: "20f6596b975a"
 source_file: "LEGAL/UNDERSTANDING ADVERSE IMPACT.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

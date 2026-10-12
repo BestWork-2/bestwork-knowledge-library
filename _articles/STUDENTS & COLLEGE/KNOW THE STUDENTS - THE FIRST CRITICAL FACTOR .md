@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/know-the-students-the-first-critical-f
 article_id: "27e54beb6bfb"
 source_file: "STUDENTS & COLLEGE/KNOW THE STUDENTS - THE FIRST CRITICAL FACTOR .pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

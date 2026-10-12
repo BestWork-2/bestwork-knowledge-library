@@ -8,7 +8,7 @@ permalink: "/library/training/focusing-talent-development-with-data/"
 article_id: "6b20e635be2a"
 source_file: "TRAINING/FOCUSING TALENT DEVELOPMENT WITH DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

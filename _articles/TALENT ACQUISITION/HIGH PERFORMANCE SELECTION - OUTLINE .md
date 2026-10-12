@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/high-performance-selection-outline/"
 article_id: "43ac0140cc9e"
 source_file: "TALENT ACQUISITION/HIGH PERFORMANCE SELECTION - OUTLINE .pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

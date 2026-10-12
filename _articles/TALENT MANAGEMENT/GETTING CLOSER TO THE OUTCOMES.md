@@ -8,7 +8,7 @@ permalink: "/library/talent-management/getting-closer-to-the-outcomes/"
 article_id: "050a55c09635"
 source_file: "TALENT MANAGEMENT/GETTING CLOSER TO THE OUTCOMES.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

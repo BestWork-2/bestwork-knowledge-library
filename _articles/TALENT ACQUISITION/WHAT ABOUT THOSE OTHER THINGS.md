@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/what-about-those-other-things/"
 article_id: "9fec5a6b3859"
 source_file: "TALENT ACQUISITION/WHAT ABOUT THOSE OTHER THINGS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

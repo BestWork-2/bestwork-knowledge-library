@@ -8,7 +8,7 @@ permalink: "/library/psychology/the-science-behind-the-data-compressed/"
 article_id: "6d4fbb3343c9"
 source_file: "PSYCHOLOGY/THE SCIENCE BEHIND THE DATA-compressed.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

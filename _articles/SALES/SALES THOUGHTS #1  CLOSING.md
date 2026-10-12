@@ -8,7 +8,7 @@ permalink: "/library/sales/sales-thoughts-1-closing/"
 article_id: "0126050afd62"
 source_file: "SALES/SALES THOUGHTS #1  CLOSING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

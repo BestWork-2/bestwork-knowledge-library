@@ -8,7 +8,7 @@ permalink: "/library/bestwork/change-and-opportunity/"
 article_id: "fddaab66d7fb"
 source_file: "BESTWORK/CHANGE & OPPORTUNITY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

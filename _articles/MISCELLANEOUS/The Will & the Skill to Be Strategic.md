@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/the-will-and-the-skill-to-be-strategic/"
 article_id: "36f297a23733"
 source_file: "MISCELLANEOUS/The Will & the Skill to Be Strategic.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/talent-management/the-tricky-trap-of-concept-words/"
 article_id: "ceaa8a5a6d9d"
 source_file: "TALENT MANAGEMENT/The Tricky Trap of Concept-Words.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

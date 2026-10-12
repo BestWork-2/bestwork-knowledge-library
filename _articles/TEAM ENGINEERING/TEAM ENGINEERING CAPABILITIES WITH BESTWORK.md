@@ -8,7 +8,7 @@ permalink: "/library/team-engineering/team-engineering-capabilities-with-bestwor
 article_id: "9241208d953a"
 source_file: "TEAM ENGINEERING/TEAM ENGINEERING CAPABILITIES WITH BESTWORK.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

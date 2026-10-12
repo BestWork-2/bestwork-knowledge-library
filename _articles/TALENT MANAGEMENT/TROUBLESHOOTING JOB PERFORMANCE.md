@@ -8,7 +8,7 @@ permalink: "/library/talent-management/troubleshooting-job-performance/"
 article_id: "5457f1b2841b"
 source_file: "TALENT MANAGEMENT/TROUBLESHOOTING JOB PERFORMANCE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

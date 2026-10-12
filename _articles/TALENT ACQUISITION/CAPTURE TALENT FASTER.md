@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/capture-talent-faster/"
 article_id: "0d8dd0a8b7ab"
 source_file: "TALENT ACQUISITION/CAPTURE TALENT FASTER.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

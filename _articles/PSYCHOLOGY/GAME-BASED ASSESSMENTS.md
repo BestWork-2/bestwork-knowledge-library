@@ -8,7 +8,7 @@ permalink: "/library/psychology/game-based-assessments/"
 article_id: "16d44d4e5847"
 source_file: "PSYCHOLOGY/GAME-BASED ASSESSMENTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

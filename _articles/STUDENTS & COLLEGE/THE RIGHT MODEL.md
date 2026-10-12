@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/the-right-model/"
 article_id: "743beead290a"
 source_file: "STUDENTS & COLLEGE/THE RIGHT MODEL.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

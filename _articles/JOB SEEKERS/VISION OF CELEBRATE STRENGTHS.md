@@ -8,7 +8,7 @@ permalink: "/library/job-seekers/vision-of-celebrate-strengths/"
 article_id: "102879fca13f"
 source_file: "JOB SEEKERS/VISION OF CELEBRATE STRENGTHS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

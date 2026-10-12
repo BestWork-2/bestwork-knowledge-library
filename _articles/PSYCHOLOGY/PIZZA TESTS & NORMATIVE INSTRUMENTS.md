@@ -8,7 +8,7 @@ permalink: "/library/psychology/pizza-tests-and-normative-instruments/"
 article_id: "dc71ee8712c7"
 source_file: "PSYCHOLOGY/PIZZA TESTS & NORMATIVE INSTRUMENTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

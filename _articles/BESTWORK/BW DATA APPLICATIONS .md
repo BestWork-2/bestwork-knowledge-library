@@ -8,7 +8,7 @@ permalink: "/library/bestwork/bw-data-applications/"
 article_id: "0386bcd799fc"
 source_file: "BESTWORK/BW DATA APPLICATIONS .pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

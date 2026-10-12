@@ -8,7 +8,7 @@ permalink: "/library/psychology/coachability-an-explanation/"
 article_id: "d36a7bd8db75"
 source_file: "PSYCHOLOGY/COACHABILITY - AN EXPLANATION.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

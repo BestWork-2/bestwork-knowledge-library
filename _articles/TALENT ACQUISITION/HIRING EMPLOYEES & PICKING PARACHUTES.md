@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/hiring-employees-and-picking-parachutes/
 article_id: "890d6efcffcc"
 source_file: "TALENT ACQUISITION/HIRING EMPLOYEES & PICKING PARACHUTES.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

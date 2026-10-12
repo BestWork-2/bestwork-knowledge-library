@@ -8,7 +8,7 @@ permalink: "/library/sales/sales-thoughts-3-sales-team-engineering/"
 article_id: "1dbd75bb66f2"
 source_file: "SALES/SALES THOUGHTS #3 SALES TEAM ENGINEERING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

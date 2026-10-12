@@ -8,7 +8,7 @@ permalink: "/library/industries/staffing/advantages-with-data-in-the-staffing-in
 article_id: "ee2831d9f33e"
 source_file: "INDUSTRIES/STAFFING/ADVANTAGES WITH DATA IN THE STAFFING INDUSTRY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/bestwork/specific-descriptive-text/"
 article_id: "2be610d1d059"
 source_file: "BESTWORK/SPECIFIC DESCRIPTIVE TEXT.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/team-engineering/indw-team-exercises/"
 article_id: "4dde5e1fd229"
 source_file: "TEAM ENGINEERING/INDW - TEAM EXERCISES.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

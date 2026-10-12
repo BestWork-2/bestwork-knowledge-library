@@ -8,7 +8,7 @@ permalink: "/library/talent-management/talent-management-w-bwd/"
 article_id: "f2caa845de17"
 source_file: "TALENT MANAGEMENT/TALENT MANAGEMENT w_ BWD.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

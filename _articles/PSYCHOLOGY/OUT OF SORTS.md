@@ -8,7 +8,7 @@ permalink: "/library/psychology/out-of-sorts/"
 article_id: "c06366fd94fa"
 source_file: "PSYCHOLOGY/OUT OF SORTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/the-biggest-data/"
 article_id: "d81448271cc4"
 source_file: "MISCELLANEOUS/THE BIGGEST DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

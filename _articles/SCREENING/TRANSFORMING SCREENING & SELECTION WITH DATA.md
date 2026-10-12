@@ -8,7 +8,7 @@ permalink: "/library/screening/transforming-screening-and-selection-with-data/"
 article_id: "a72a3eaee2cc"
 source_file: "SCREENING/TRANSFORMING SCREENING & SELECTION WITH DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

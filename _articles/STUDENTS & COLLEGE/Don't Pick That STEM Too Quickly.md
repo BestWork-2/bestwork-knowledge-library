@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/don-t-pick-that-stem-too-quickly/"
 article_id: "4fe183595c5f"
 source_file: "STUDENTS & COLLEGE/Don't Pick That STEM Too Quickly.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

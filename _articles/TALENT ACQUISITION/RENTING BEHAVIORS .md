@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/renting-behaviors/"
 article_id: "0a28fe82ac55"
 source_file: "TALENT ACQUISITION/RENTING BEHAVIORS .pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

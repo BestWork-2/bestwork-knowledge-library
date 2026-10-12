@@ -8,7 +8,7 @@ permalink: "/library/psychology/measurement-and-survey/"
 article_id: "91c0c89d7507"
 source_file: "PSYCHOLOGY/MEASUREMENT & SURVEY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

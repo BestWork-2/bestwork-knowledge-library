@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/a-deeper-look-at-aq/"
 article_id: "96c0f1c8eb71"
 source_file: "MISCELLANEOUS/A DEEPER LOOK AT AQ.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

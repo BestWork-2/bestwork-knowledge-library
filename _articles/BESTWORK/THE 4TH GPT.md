@@ -8,7 +8,7 @@ permalink: "/library/bestwork/the-4th-gpt/"
 article_id: "02640c35076c"
 source_file: "BESTWORK/THE 4TH GPT.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/legal/legal-questions-and-answers/"
 article_id: "42c0aa7759fc"
 source_file: "LEGAL/LEGAL QUESTIONS & ANSWERS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

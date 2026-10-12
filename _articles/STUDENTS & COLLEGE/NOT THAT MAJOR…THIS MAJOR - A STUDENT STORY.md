@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/not-that-major-this-major-a-student-st
 article_id: "ad7f0d42a9d9"
 source_file: "STUDENTS & COLLEGE/NOT THAT MAJOR…THIS MAJOR - A STUDENT STORY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/behavioral-data/a-better-understanding-of-introverts-and-ex
 article_id: "fc116d7075e5"
 source_file: "BEHAVIORAL DATA/A BETTER UNDERSTANDING OF INTROVERTS & EXTROVERTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

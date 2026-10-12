@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/exploring-the-promising-and-probable/"
 article_id: "f570bcef293e"
 source_file: "STUDENTS & COLLEGE/EXPLORING THE PROMISING & PROBABLE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

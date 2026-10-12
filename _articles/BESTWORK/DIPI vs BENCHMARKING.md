@@ -8,7 +8,7 @@ permalink: "/library/bestwork/dipi-vs-benchmarking/"
 article_id: "696cc18a50f2"
 source_file: "BESTWORK/DIPI vs BENCHMARKING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

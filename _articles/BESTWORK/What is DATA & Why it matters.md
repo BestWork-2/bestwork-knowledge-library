@@ -8,7 +8,7 @@ permalink: "/library/bestwork/what-is-data-and-why-it-matters/"
 article_id: "dd8d7016f4a5"
 source_file: "BESTWORK/What is DATA & Why it matters.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

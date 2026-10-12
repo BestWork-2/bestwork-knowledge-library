@@ -8,7 +8,7 @@ permalink: "/library/legal/answers-to-common-legal-questions/"
 article_id: "de2b1357dcd9"
 source_file: "LEGAL/ANSWERS TO COMMON LEGAL QUESTIONS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

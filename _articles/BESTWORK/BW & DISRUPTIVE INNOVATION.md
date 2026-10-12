@@ -8,7 +8,7 @@ permalink: "/library/bestwork/bw-and-disruptive-innovation/"
 article_id: "9ddf6e657a5c"
 source_file: "BESTWORK/BW & DISRUPTIVE INNOVATION.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

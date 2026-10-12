@@ -8,7 +8,7 @@ permalink: "/library/job-seekers/what-is-data-and-why-it-matters/"
 article_id: "f5eb450fcf2f"
 source_file: "JOB SEEKERS/What is DATA & Why it matters.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

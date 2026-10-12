@@ -8,7 +8,7 @@ permalink: "/library/bestwork/bwd-unlimited-license/"
 article_id: "d5a9b4b75dab"
 source_file: "BESTWORK/BWD UNLIMITED LICENSE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

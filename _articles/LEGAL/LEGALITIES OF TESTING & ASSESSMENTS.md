@@ -8,7 +8,7 @@ permalink: "/library/legal/legalities-of-testing-and-assessments/"
 article_id: "329169b1987d"
 source_file: "LEGAL/LEGALITIES OF TESTING & ASSESSMENTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

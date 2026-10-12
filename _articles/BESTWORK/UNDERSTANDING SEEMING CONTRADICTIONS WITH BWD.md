@@ -8,7 +8,7 @@ permalink: "/library/bestwork/understanding-seeming-contradictions-with-bwd/"
 article_id: "2983a0026340"
 source_file: "BESTWORK/UNDERSTANDING SEEMING CONTRADICTIONS WITH BWD.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

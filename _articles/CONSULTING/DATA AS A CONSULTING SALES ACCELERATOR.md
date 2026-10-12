@@ -8,7 +8,7 @@ permalink: "/library/consulting/data-as-a-consulting-sales-accelerator/"
 article_id: "dcdacd50bebe"
 source_file: "CONSULTING/DATA AS A CONSULTING SALES ACCELERATOR.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/topology-of-human-performance/"
 article_id: "707630e68a9d"
 source_file: "MISCELLANEOUS/TOPOLOGY OF HUMAN PERFORMANCE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

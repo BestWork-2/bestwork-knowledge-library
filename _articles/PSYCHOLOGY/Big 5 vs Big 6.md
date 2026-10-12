@@ -8,7 +8,7 @@ permalink: "/library/psychology/big-5-vs-big-6/"
 article_id: "ccfdcdf689b8"
 source_file: "PSYCHOLOGY/Big 5 vs Big 6.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/sales/a-deeper-look-at-hunters-and-farmers/"
 article_id: "89ee8ac18208"
 source_file: "SALES/A DEEPER LOOK AT HUNTERS & FARMERS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

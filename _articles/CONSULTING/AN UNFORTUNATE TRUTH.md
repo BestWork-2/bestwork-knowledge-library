@@ -8,7 +8,7 @@ permalink: "/library/consulting/an-unfortunate-truth/"
 article_id: "d8a64f8a63bc"
 source_file: "CONSULTING/AN UNFORTUNATE TRUTH.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

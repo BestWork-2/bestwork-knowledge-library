@@ -8,7 +8,7 @@ permalink: "/library/case-studies/call-center-story/"
 article_id: "5a813a841f3e"
 source_file: "CASE STUDIES/CALL CENTER STORY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

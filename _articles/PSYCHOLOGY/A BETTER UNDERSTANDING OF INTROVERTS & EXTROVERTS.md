@@ -8,7 +8,7 @@ permalink: "/library/psychology/a-better-understanding-of-introverts-and-extrove
 article_id: "8b6f34d2aa3e"
 source_file: "PSYCHOLOGY/A BETTER UNDERSTANDING OF INTROVERTS & EXTROVERTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

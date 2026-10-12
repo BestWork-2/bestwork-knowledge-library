@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/workforce-redistribution-bwd/"
 article_id: "517e9943e455"
 source_file: "MISCELLANEOUS/WORKFORCE REDISTRIBUTION-BWD.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

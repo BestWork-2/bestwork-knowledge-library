@@ -8,7 +8,7 @@ permalink: "/library/bestwork/the-paradox-of-equal-differences/"
 article_id: "73dee24a6c28"
 source_file: "BESTWORK/THE PARADOX OF EQUAL DIFFERENCES.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

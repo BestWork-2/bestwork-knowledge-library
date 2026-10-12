@@ -8,7 +8,7 @@ permalink: "/library/team-engineering/optimizing-your-executive-team/"
 article_id: "8292e5ca574e"
 source_file: "TEAM ENGINEERING/OPTIMIZING YOUR EXECUTIVE TEAM.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

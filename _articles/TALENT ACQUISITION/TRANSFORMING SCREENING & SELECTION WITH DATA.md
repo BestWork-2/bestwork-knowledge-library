@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/transforming-screening-and-selection-wit
 article_id: "2306b6d0ecdb"
 source_file: "TALENT ACQUISITION/TRANSFORMING SCREENING & SELECTION WITH DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

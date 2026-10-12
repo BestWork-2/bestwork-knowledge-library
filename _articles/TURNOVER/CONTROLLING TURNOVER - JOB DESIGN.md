@@ -8,7 +8,7 @@ permalink: "/library/turnover/controlling-turnover-job-design/"
 article_id: "ede6dc30e86c"
 source_file: "TURNOVER/CONTROLLING TURNOVER - JOB DESIGN.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/high-volume-hiring/"
 article_id: "3a3f57fe82e7"
 source_file: "TALENT ACQUISITION/HIGH VOLUME HIRING .pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

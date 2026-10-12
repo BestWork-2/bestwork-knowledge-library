@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/from-concept-to-real-change/"
 article_id: "3c48a36d86ff"
 source_file: "MISCELLANEOUS/FROM CONCEPT TO REAL CHANGE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

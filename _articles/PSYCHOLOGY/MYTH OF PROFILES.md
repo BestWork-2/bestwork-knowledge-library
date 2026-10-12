@@ -8,7 +8,7 @@ permalink: "/library/psychology/myth-of-profiles/"
 article_id: "448da8a5da59"
 source_file: "PSYCHOLOGY/MYTH OF PROFILES.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

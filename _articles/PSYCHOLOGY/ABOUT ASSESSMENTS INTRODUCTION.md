@@ -8,7 +8,7 @@ permalink: "/library/psychology/about-assessments-introduction/"
 article_id: "e90d9a6e7e98"
 source_file: "PSYCHOLOGY/ABOUT ASSESSMENTS INTRODUCTION.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/sales/pro-sales-traits/"
 article_id: "e913c3b1c871"
 source_file: "SALES/PRO SALES TRAITS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

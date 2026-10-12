@@ -7,7 +7,7 @@ repository: "BestWork-2/bestwork-knowledge-library"
 timezone: America/New_York
 
 publisher:
-  name: BestWork DATA
+  name: BestWork
 
 collections:
   articles:

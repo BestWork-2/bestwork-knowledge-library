@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/why-aren-t-we-helping-our-students/"
 article_id: "f5b2c7b79a6c"
 source_file: "STUDENTS & COLLEGE/WHY AREN'T WE HELPING OUR STUDENTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

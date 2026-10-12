@@ -8,7 +8,7 @@ permalink: "/library/psychology/not-your-best-profile/"
 article_id: "cd2b069744e5"
 source_file: "PSYCHOLOGY/NOT YOUR BEST PROFILE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

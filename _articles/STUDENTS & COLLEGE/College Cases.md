@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/college-cases/"
 article_id: "180fa267e89b"
 source_file: "STUDENTS & COLLEGE/College Cases.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

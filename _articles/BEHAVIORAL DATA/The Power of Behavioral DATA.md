@@ -8,7 +8,7 @@ permalink: "/library/behavioral-data/the-power-of-behavioral-data/"
 article_id: "a6474046a477"
 source_file: "BEHAVIORAL DATA/The Power of Behavioral DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

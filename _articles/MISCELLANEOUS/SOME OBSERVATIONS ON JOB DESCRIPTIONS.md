@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/some-observations-on-job-descriptions/"
 article_id: "3afbee4515df"
 source_file: "MISCELLANEOUS/SOME OBSERVATIONS ON JOB DESCRIPTIONS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

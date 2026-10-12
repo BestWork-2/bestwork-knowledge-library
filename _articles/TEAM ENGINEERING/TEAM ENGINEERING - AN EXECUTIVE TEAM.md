@@ -8,7 +8,7 @@ permalink: "/library/team-engineering/team-engineering-an-executive-team/"
 article_id: "ecba4d80a94b"
 source_file: "TEAM ENGINEERING/TEAM ENGINEERING - AN EXECUTIVE TEAM.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

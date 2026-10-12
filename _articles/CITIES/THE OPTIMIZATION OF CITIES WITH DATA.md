@@ -8,7 +8,7 @@ permalink: "/library/cities/the-optimization-of-cities-with-data/"
 article_id: "a6bf3a990f3f"
 source_file: "CITIES/THE OPTIMIZATION OF CITIES WITH DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

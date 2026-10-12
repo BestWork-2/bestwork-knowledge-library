@@ -8,7 +8,7 @@ permalink: "/library/sales/sales-training-with-data/"
 article_id: "67a298b8083f"
 source_file: "SALES/SALES TRAINING WITH DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

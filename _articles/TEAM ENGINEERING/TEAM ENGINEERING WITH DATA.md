@@ -8,7 +8,7 @@ permalink: "/library/team-engineering/team-engineering-with-data/"
 article_id: "41251abe2ab5"
 source_file: "TEAM ENGINEERING/TEAM ENGINEERING WITH DATA.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

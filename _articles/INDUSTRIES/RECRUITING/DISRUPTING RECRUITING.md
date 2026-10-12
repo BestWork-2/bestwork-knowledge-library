@@ -8,7 +8,7 @@ permalink: "/library/industries/recruiting/disrupting-recruiting/"
 article_id: "ee4a3555e6a9"
 source_file: "INDUSTRIES/RECRUITING/DISRUPTING RECRUITING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

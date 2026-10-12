@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/students-and-employability/"
 article_id: "1867569728d4"
 source_file: "STUDENTS & COLLEGE/STUDENTS & EMPLOYABILITY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

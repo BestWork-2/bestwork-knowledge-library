@@ -8,7 +8,7 @@ permalink: "/library/customer-service/where-is-the-people-part-of-customer-servi
 article_id: "9a28bfe63fac"
 source_file: "CUSTOMER SERVICE/WHERE IS THE PEOPLE PART OF CUSTOMER SERVICE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

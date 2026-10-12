@@ -8,7 +8,7 @@ permalink: "/library/psychology/validation-shell-game/"
 article_id: "40e6f24f26e1"
 source_file: "PSYCHOLOGY/VALIDATION SHELL GAME.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/case-studies/call-center-traits/"
 article_id: "7ae0d749f2a8"
 source_file: "CASE STUDIES/CALL CENTER TRAITS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

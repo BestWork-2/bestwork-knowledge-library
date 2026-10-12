@@ -8,7 +8,7 @@ permalink: "/library/cities/toward-a-resilient-labour-market/"
 article_id: "b4a2991ecece"
 source_file: "CITIES/TOWARD A RESILIENT LABOUR MARKET.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

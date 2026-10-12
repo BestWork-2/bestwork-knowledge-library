@@ -8,7 +8,7 @@ permalink: "/library/psychology/does-your-test-go-clunk/"
 article_id: "a5f2d41b365a"
 source_file: "PSYCHOLOGY/Does Your Test Go Clunk.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

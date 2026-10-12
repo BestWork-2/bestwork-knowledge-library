@@ -8,7 +8,7 @@ permalink: "/library/bestwork/a-game-changer/"
 article_id: "ea0a50227d71"
 source_file: "BESTWORK/A GAME CHANGER.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

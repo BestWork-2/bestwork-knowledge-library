@@ -8,7 +8,7 @@ permalink: "/library/students-and-college/interested-then-students-beware/"
 article_id: "007d37498ff8"
 source_file: "STUDENTS & COLLEGE/INTERESTED…THEN STUDENTS, BEWARE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

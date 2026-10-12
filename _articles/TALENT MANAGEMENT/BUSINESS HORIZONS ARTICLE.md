@@ -8,7 +8,7 @@ permalink: "/library/talent-management/business-horizons-article/"
 article_id: "d35e088fbcbd"
 source_file: "TALENT MANAGEMENT/BUSINESS HORIZONS ARTICLE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

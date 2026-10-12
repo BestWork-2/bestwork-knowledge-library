@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/self-confidence-motivation-and-ambition/
 article_id: "4add3d8f44c1"
 source_file: "TALENT ACQUISITION/SELF-CONFIDENCE, MOTIVATION & AMBITION.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

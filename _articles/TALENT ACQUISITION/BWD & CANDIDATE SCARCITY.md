@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/bwd-and-candidate-scarcity/"
 article_id: "5762192a46c1"
 source_file: "TALENT ACQUISITION/BWD & CANDIDATE SCARCITY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/psychology/bwd-psychometrics-forum-poster/"
 article_id: "85a77a1228fd"
 source_file: "PSYCHOLOGY/BWD Psychometrics Forum Poster.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

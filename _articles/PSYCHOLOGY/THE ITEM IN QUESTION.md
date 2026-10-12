@@ -8,7 +8,7 @@ permalink: "/library/psychology/the-item-in-question/"
 article_id: "144d1870445f"
 source_file: "PSYCHOLOGY/THE ITEM IN QUESTION.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

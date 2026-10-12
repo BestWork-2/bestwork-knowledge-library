@@ -8,7 +8,7 @@ permalink: "/library/miscellaneous/gpt-4/"
 article_id: "57527f1543ec"
 source_file: "MISCELLANEOUS/GPT #4.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

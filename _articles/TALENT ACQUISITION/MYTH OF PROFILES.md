@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/myth-of-profiles/"
 article_id: "684ab2798303"
 source_file: "TALENT ACQUISITION/MYTH OF PROFILES.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

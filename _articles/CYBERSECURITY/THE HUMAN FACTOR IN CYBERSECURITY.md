@@ -8,7 +8,7 @@ permalink: "/library/cybersecurity/the-human-factor-in-cybersecurity/"
 article_id: "b735b572e868"
 source_file: "CYBERSECURITY/THE HUMAN FACTOR IN CYBERSECURITY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/psychology/old-assessments-and-older-assessments/"
 article_id: "115d7efea5d0"
 source_file: "PSYCHOLOGY/OLD ASSESSMENTS & OLDER ASSESSMENTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

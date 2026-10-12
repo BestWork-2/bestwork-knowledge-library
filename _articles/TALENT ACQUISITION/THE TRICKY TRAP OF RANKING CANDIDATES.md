@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/the-tricky-trap-of-ranking-candidates/"
 article_id: "cd85fec2fb46"
 source_file: "TALENT ACQUISITION/THE TRICKY TRAP OF RANKING CANDIDATES.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

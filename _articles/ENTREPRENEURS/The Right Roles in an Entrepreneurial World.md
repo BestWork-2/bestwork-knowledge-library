@@ -8,7 +8,7 @@ permalink: "/library/entrepreneurs/the-right-roles-in-an-entrepreneurial-world/"
 article_id: "4a544f4fc7db"
 source_file: "ENTREPRENEURS/The Right Roles in an Entrepreneurial World.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

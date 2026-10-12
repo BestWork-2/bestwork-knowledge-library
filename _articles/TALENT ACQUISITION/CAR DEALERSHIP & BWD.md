@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/car-dealership-and-bwd/"
 article_id: "97169fddb4bf"
 source_file: "TALENT ACQUISITION/CAR DEALERSHIP & BWD.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

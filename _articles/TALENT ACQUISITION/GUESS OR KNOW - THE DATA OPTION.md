@@ -8,7 +8,7 @@ permalink: "/library/talent-acquisition/guess-or-know-the-data-option/"
 article_id: "19e253c4d0ce"
 source_file: "TALENT ACQUISITION/GUESS OR KNOW - THE DATA OPTION.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

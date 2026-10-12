@@ -8,7 +8,7 @@ permalink: "/library/case-studies/picking-call-center-performers-a-case-study/"
 article_id: "7cf01d92eb88"
 source_file: "CASE STUDIES/PICKING CALL CENTER PERFORMERS - A CASE STUDY.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

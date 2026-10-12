@@ -8,7 +8,7 @@ permalink: "/library/sales/a-pragmatic-view-of-sales-performance/"
 article_id: "09aefd231f63"
 source_file: "SALES/A Pragmatic View of Sales Performance.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/bestwork/right-person-right-job/"
 article_id: "d96934801487"
 source_file: "BESTWORK/RIGHT_PERSON_RIGHT_JOB.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

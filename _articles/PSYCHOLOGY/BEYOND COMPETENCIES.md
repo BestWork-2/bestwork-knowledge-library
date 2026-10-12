@@ -8,7 +8,7 @@ permalink: "/library/psychology/beyond-competencies/"
 article_id: "74da4bbe011b"
 source_file: "PSYCHOLOGY/BEYOND COMPETENCIES.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/career/job-ideas-and-job-behaviors/"
 article_id: "41b90e2009c8"
 source_file: "CAREER/JOB IDEAS & JOB BEHAVIORS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

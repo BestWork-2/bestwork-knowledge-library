@@ -8,7 +8,7 @@ permalink: "/library/screening/changing-the-game-background-screening/"
 article_id: "9d26a148b2d6"
 source_file: "SCREENING/CHANGING THE GAME - BACKGROUND SCREENING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

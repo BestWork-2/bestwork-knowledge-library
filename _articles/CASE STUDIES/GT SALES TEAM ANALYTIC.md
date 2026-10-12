@@ -8,7 +8,7 @@ permalink: "/library/case-studies/gt-sales-team-analytic/"
 article_id: "65d302290c55"
 source_file: "CASE STUDIES/GT SALES TEAM ANALYTIC.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

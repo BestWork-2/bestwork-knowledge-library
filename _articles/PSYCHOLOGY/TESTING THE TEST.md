@@ -8,7 +8,7 @@ permalink: "/library/psychology/testing-the-test/"
 article_id: "7e485866f176"
 source_file: "PSYCHOLOGY/TESTING THE TEST.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

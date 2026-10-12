@@ -8,7 +8,7 @@ permalink: "/library/behavioral-data/making-executive-competencies-practical/"
 article_id: "5a9d2e6f5686"
 source_file: "BEHAVIORAL DATA/MAKING EXECUTIVE COMPETENCIES PRACTICAL.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

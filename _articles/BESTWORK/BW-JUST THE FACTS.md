@@ -8,7 +8,7 @@ permalink: "/library/bestwork/bw-just-the-facts/"
 article_id: "da47ea551104"
 source_file: "BESTWORK/BW-JUST THE FACTS.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

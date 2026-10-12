@@ -8,7 +8,7 @@ permalink: "/library/job-seekers/job-agility-in-a-time-of-change/"
 article_id: "cea85a2f10b6"
 source_file: "JOB SEEKERS/JOB AGILITY IN A TIME OF CHANGE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

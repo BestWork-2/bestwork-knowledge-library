@@ -10,7 +10,7 @@ permalink: /
     <div>
       <p class="eyebrow">Behavioral intelligence for better decisions</p>
       <h1>Understand people.<br>Improve work.</h1>
-      <p class="hero-copy">A growing library of BestWork DATA research, essays, and practical guidance for selecting, developing, and organizing people.</p>
+      <p class="hero-copy">A growing library of BestWork research, essays, and practical guidance for selecting, developing, and organizing people.</p>
       <a class="button" href="{{ '/library/' | relative_url }}">Explore the library <span aria-hidden="true">&rarr;</span></a>
     </div>
     <div class="hero-stat" aria-label="Library summary">

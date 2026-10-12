@@ -8,7 +8,7 @@ permalink: "/library/bestwork/the-bestwork-difference/"
 article_id: "897660289d96"
 source_file: "BESTWORK/THE BESTWORK DIFFERENCE.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

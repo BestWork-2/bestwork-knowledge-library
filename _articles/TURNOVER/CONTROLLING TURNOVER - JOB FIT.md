@@ -8,7 +8,7 @@ permalink: "/library/turnover/controlling-turnover-job-fit/"
 article_id: "19d877f267c3"
 source_file: "TURNOVER/CONTROLLING TURNOVER - JOB FIT.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

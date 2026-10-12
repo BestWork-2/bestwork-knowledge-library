@@ -8,7 +8,7 @@ permalink: "/library/team-engineering/team-engineering-beyond-team-building/"
 article_id: "622bd7cc8e36"
 source_file: "TEAM ENGINEERING/TEAM ENGINEERING, BEYOND TEAM BUILDING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

@@ -8,7 +8,7 @@ permalink: "/library/case-studies/car-dealership-and-bwd/"
 article_id: "5079b03c106f"
 source_file: "CASE STUDIES/CAR DEALERSHIP & BWD.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1

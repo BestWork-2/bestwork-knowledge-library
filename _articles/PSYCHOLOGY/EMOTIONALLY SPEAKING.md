@@ -8,7 +8,7 @@ permalink: "/library/psychology/emotionally-speaking/"
 article_id: "6b7f9c2d3d78"
 source_file: "PSYCHOLOGY/EMOTIONALLY SPEAKING.pdf"
 source_format: "PDF"
-publisher: BestWork DATA
+publisher: BestWork
 published: true
 ---
 ## Page 1
