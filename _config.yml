@@ -1,9 +1,9 @@
 title: BestWork Knowledge Library
 description: Research, essays, and practical guidance about behavioral data, cognitive abilities, talent, teams, leadership, and work.
 lang: en-US
-url: ""
-baseurl: ""
-repository: ""
+url: "https://bestwork-2.github.io"
+baseurl: "/bestwork-knowledge-library"
+repository: "BestWork-2/bestwork-knowledge-library"
 timezone: America/New_York
 
 publisher:
